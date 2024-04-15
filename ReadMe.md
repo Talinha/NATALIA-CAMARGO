@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduada em Ciências Contábeis pela UFRJ, atuante na área de Planejamento Financeiro de empresas de grande porte, Pós-Graduada em BI pela PUC e estudando Data Science.  
+Graduada em Ciências Contábeis pela UFRJ, atuante na área de Planejamento Financeiro de empresas de grande porte, Pós-Graduada em BI pela PUC.  
 
 
 ## 🌐 Socials:
