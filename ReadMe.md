@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduated in Accounting from UFRJ, working in the area of Financial Planning, Post-Graduated in Business Intelligence from PUC.  
+Graduated in Accounting from UFRJ, working in Financial Planning, Post-Graduated in Business Intelligence from PUC, currently studying Data Science at USP, content creator for the page Women in Technology, with various projects, courses, and Bootcamps.  
 
 
 ## 🌐 Socials:
