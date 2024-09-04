@@ -15,7 +15,14 @@ Graduated in Accounting from UFRJ, working in Financial Planning, Post-Graduated
 
 ### Databases:
 
-![SQL Server Badge](https://img.shields.io/badge/SQL_Server-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Oracle Badge](https://img.shields.io/badge/Oracle-DB4437?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL Workbench Badge](https://img.shields.io/badge/MySQL_Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Cassandra Badge](https://img.shields.io/badge/Cassandra-3D3D3D?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Neo4j Badge](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-BB2528?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-F4A259?style=for-the-badge&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-3D3D3D?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-00B3A4?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### Cloud:
 
@@ -27,9 +34,11 @@ Graduated in Accounting from UFRJ, working in Financial Planning, Post-Graduated
 
 ### Workstation Tools:
 
-![Git](https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=GIT) ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=blue&color=white)  ![PyCharm Badge](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Spyder Badge](https://img.shields.io/badge/Spyder-000000?style=for-the-badge&logo=spyder&logoColor=white) ![Jupyter Notebook Badge](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-00C4B3?style=for-the-badge&logo=pycharm&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-D32F2F?style=for-the-badge&logo=spyder&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 
